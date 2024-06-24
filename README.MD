@@ -99,6 +99,7 @@ Also similarly to LLVM, multiple syntaxes can compile to Mitotis. Our out-of-the
 | Webcomponents | Beta         |
 | React Native  | Beta         |
 | SwiftUI       | Experimental |
+| Flutter       | Experimental |
 
 ## Contribute
 
